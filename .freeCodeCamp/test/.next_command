@@ -40,3 +40,4 @@ read NAME < name.txt
 echo $NAME
 echo Tat
 echo $NAME
+cat
