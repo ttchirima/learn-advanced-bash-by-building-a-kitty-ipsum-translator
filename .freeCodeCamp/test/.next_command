@@ -43,3 +43,4 @@ echo $NAME
 cat
 __vsc_prompt_cmd_original
 cat name.txt
+cat < name.txt
