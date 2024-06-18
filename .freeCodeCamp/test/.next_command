@@ -51,3 +51,4 @@ chmod +x script.sh
 echo tat
 echo tat
 echo tat
+./script.sh < name.txt
